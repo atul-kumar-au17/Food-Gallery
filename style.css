@@ -1,0 +1,52 @@
+.container {
+    width: 100%;
+    background-color: rgb(4, 6, 7);
+  }
+  
+  h2 {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    color: rgb(65, 233, 14);
+    font-family: Carter One, cursive;
+  }
+  
+  .carousel-indicators [data-bs-target] {
+    width: 40px;
+  }
+  .carousel-inner {
+    height: ;
+  }
+  
+  #first {
+    height: 600px;
+  }
+  
+  #second {
+    height: 600px;
+  }
+  #third {
+    height: 600px;
+  }
+  
+  .scnd {
+    height: 700px;
+  }
+  
+  .card {
+    padding-bottom: 5px;
+    box-shadow: 0px 0px 5px 5px rgb(141, 137, 137);
+    transition: transform 1s;
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: rgb(119, 192, 119);
+  }
+  .card:hover {
+    transform: scale(1.05, 1.05);
+    opacity: 1;
+  }
+  .five {
+    height: 400px;
+  }
+  .six {
+    height: 230px;
+  }
